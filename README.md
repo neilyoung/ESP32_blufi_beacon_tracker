@@ -1,3 +1,3 @@
 # ESP32_blufi_beacon_tracker
 
-Run make flash display
+Run ```make flash display```
