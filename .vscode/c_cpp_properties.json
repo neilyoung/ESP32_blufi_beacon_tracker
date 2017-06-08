@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "/Users/decades/Documents/ESP-32/esp-idf/components/"
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "databaseFilename": "",
+                "path": [
+                    "/Users/decades/Documents/ESP-32/esp-idf/components/"
+                ]
+            }
+        }
+    ]
+}

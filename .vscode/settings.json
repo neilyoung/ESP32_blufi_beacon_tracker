@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "*.js": "javascript",
+        "*hppcmath": "cpp",
+        "cmath": "cpp",
+        "*hcomplex": "cpp",
+        "complex": "cpp",
+        "string": "cpp",
+        "cstring": "cpp",
+        "functional": "cpp",
+        "*h*htype_traits": "cpp",
+        "utility": "cpp",
+        "*h*hlimits": "cpp",
+        "limits": "cpp",
+        "vector": "cpp",
+        "algorithm": "cpp"
+    },
+    "C_Cpp.intelliSenseEngine": "Tag Parser"
+
+}

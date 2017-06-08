@@ -1,0 +1,7 @@
+UseTab: Never
+IndentWidth: 4
+
+AllowShortIfStatementsOnASingleLine: false
+AllowShortFunctionsOnASingleLine: false
+IndentCaseLabels: true
+ColumnLimit: 0
